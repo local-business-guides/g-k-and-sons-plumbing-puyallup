@@ -1,3 +1,4 @@
 User-agent: *
 Allow: /
 Sitemap: https://local-business-guides.github.io/g-k-and-sons-plumbing-puyallup/sitemap.xml
+Sitemap: https://local-business-guides.github.io/g-k-and-sons-plumbing-puyallup/news-sitemap.xml
